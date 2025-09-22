@@ -88,7 +88,7 @@ def create_config(config_file: str) -> dict:
     "proxy_setting": {
         "proxy_url": "127.0.0.1",
         "proxy_port": "",
-        "enabled": false
+        "enabled": False
     },
     "webdav_config": {
         "webdav_url": "",
