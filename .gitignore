@@ -4,13 +4,13 @@
 /dist
 /.vscode
 /__pycache__
+__pycache__/
+*.pyc
 /markdown
 /vectorstore
 /example
 config.json
 config_test.json
-/novel_generator/__pycache__
-/ui/__pycache__
 .idea/
 /novel
 app.log
