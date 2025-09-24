@@ -16,3 +16,6 @@ config_test.json
 app.log
 test.py
 /backup
+uv.lock
+.python-version
+pyproject.toml
